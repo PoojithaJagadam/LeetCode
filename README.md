@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PoojithaJagadam/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PoojithaJagadam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/PoojithaJagadam/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/PoojithaJagadam/LeetCode/tree/master/2690-house-robber-iv) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/PoojithaJagadam/LeetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/PoojithaJagadam/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PoojithaJagadam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PoojithaJagadam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
