@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0874-backspace-string-compare](https://github.com/PoojithaJagadam/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Bit Manipulation
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
