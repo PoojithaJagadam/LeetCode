@@ -28,14 +28,13 @@ class Solution {
                 dummy=dummy.next;
             }
         }
+       
+        if(p1==null) {
+           p1=p2;
+        }
         while(p1!=null) {
             dummy.next=p1;
             p1=p1.next;
-            dummy= dummy.next;
-        }
-        while(p2!=null) {
-            dummy.next=p2;
-            p2=p2.next;
             dummy=dummy.next;
         }
         return td.next;
