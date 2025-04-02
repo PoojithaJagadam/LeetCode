@@ -6,7 +6,8 @@ class Solution {
             for(int j=i+1;j<n;j++) {
                 for(int k=j+1;k<n;k++) {
                     
-                    max1=Math.max(max1,(long)(nums[i]-nums[j])*nums[k]);
+                    long p=(long)(nums[i]-nums[j])*nums[k];
+                    max1=Math.max(max1,p);
                 }
             }
         }
