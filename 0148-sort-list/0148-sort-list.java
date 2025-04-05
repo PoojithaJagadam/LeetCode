@@ -59,15 +59,14 @@ class Solution {
            temp=temp.next;
        }
        int[] a=new int[n];
-       int i=0;
+      // int i=0;
        ListNode temp1=head;
-       while(temp1!=null) {
-           a[i]=temp1.val;
-           i++;
-           temp1=temp1.next;
-       }
+      for(int i=0;i<n;i++) {
+        a[i]=temp1.val;
+        temp1=temp1.next;
+      }
        Arrays.sort(a);
-       i=0;
+       int i=0;
        ListNode dum=head;
        while(dum!=null) {
            dum.val=a[i++];
