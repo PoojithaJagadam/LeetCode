@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PoojithaJagadam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-backspace-string-compare](https://github.com/PoojithaJagadam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
