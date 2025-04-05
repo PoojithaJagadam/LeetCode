@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-backspace-string-compare](https://github.com/PoojithaJagadam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PoojithaJagadam/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
