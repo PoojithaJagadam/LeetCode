@@ -10,7 +10,7 @@
  */
 class Solution {
 
-    public static ListNode merge(ListNode p1 , ListNode p2){
+    /*public static ListNode merge(ListNode p1 , ListNode p2){
         // ListNode p1=list1;
         // ListNode p2=list2;
         ListNode dummy=new ListNode(-1);
@@ -41,15 +41,38 @@ class Solution {
                  fast= fast.next.next;    
          }
          return slow;
-    }
+    } */
     public ListNode sortList(ListNode head) {
         
-         if(head==null || head.next==null) {
+       /*  if(head==null || head.next==null) {
             return head;
          }
           ListNode mid=findMid(head);
          ListNode sh=mid.next;
          mid.next=null;
-         return merge(sortList(head),sortList(sh));
+         return merge(sortList(head),sortList(sh));*/
+           
+       ListNode temp=head;
+       int n=0;
+       while(temp!=null) {
+           n++;
+           temp=temp.next;
+       }
+       int[] a=new int[n];
+       int i=0;
+       ListNode temp1=head;
+       while(temp1!=null) {
+           a[i]=temp1.val;
+           i++;
+           temp1=temp1.next;
+       }
+       Arrays.sort(a);
+       i=0;
+       ListNode dum=head;
+       while(dum!=null) {
+           dum.val=a[i++];
+           dum=dum.next;
+       }
+       return head;
     }
 }
