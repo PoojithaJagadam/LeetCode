@@ -10,11 +10,15 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        ArrayList<Integer> arr=new ArrayList<>();
-       int sum=0;
-       while(head!=null) {
-        sum=(sum*2)+head.val;
-        head=head.next;
+       Stack<Integer> st=new Stack<>();
+       ListNode temp=head;
+       while(temp!=null) {
+        st.push(temp.val);
+        temp=temp.next;
+       }
+       int sum=0,i=0;
+       while(!st.isEmpty()) {
+            sum+=(st.pop()*(1<<i++));
        }
         return sum;
     }
