@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
+| [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PoojithaJagadam/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PoojithaJagadam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PoojithaJagadam/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PoojithaJagadam/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PoojithaJagadam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
