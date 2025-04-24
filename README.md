@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/PoojithaJagadam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -236,11 +237,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
 |  |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
