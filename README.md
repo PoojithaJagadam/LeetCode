@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PoojithaJagadam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/PoojithaJagadam/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PoojithaJagadam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PoojithaJagadam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
 |  |
@@ -297,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/PoojithaJagadam/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
