@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0190-reverse-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
