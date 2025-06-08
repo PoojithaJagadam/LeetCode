@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PoojithaJagadam/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0100-same-tree) |
+| [0386-lexicographical-numbers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/PoojithaJagadam/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/PoojithaJagadam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
