@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PoojithaJagadam/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PoojithaJagadam/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3194-find-words-containing-character](https://github.com/PoojithaJagadam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
 | ------- |
