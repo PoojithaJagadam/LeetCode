@@ -14,7 +14,7 @@ class Solution {
             if(c>=p) 
             return true;
         }
-        return c>=p;
+        return false;
 
     }
     public int minimizeMax(int[] nums, int p) {
