@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/PoojithaJagadam/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/PoojithaJagadam/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PoojithaJagadam/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
