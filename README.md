@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/PoojithaJagadam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/PoojithaJagadam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PoojithaJagadam/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PoojithaJagadam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/PoojithaJagadam/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/PoojithaJagadam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/PoojithaJagadam/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/PoojithaJagadam/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
