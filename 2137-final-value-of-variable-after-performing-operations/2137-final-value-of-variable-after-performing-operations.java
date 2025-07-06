@@ -1,15 +1,22 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        int n=operations.length;
-        int x=0;
-        for(int i=0;i<n;i++) {
-            if(operations[i].equals("++X" )|| operations[i].equals("X++")) {
-                x+=1;
-            }
-            else {
-                x-=1;
-            }
-        }
-        return x;
+//String s[]={"--x","x++","x++"};
+int ans=0;
+for( int i=0;i<operations.length;i++)
+{
+    String temp=operations[i];
+    if(temp.equals("X++")||temp.equals("++X"))
+    {
+        ans=ans+1;
+    }
+    else
+    {
+        ans=ans-1;
+    }
+}
+
+
+
+return ans;
     }
 }
