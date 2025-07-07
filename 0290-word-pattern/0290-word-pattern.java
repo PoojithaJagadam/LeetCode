@@ -2,6 +2,7 @@ class Solution {
     public boolean wordPattern(String pattern, String s) {
         HashMap<Character, String> hash1=new HashMap<>();
         HashMap<String, Character> hash2=new HashMap<>();
+        // pattern lo unna characters ni string lo unna words ki line ga assign cheyyali
         int n1=pattern.length();
         int n2=s.length();
         String[] words=s.split(" ");
