@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/PoojithaJagadam/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PoojithaJagadam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojithaJagadam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PoojithaJagadam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PoojithaJagadam/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PoojithaJagadam/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojithaJagadam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PoojithaJagadam/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojithaJagadam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Tree
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/PoojithaJagadam/LeetCode/tree/master/0055-jump-game) |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojithaJagadam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/PoojithaJagadam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/PoojithaJagadam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
