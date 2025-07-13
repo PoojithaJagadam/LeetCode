@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/PoojithaJagadam/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/PoojithaJagadam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/PoojithaJagadam/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PoojithaJagadam/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/PoojithaJagadam/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3227-find-missing-and-repeated-values](https://github.com/PoojithaJagadam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PoojithaJagadam/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PoojithaJagadam/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3227-find-missing-and-repeated-values](https://github.com/PoojithaJagadam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/PoojithaJagadam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/PoojithaJagadam/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PoojithaJagadam/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/PoojithaJagadam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
