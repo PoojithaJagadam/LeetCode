@@ -17,12 +17,14 @@ class Solution {
         for(int i:hash1.keySet()) {
             if(hash1.get(i)>1) {
                 a[0]=i;
+                break;
             }
         }
         
         for(int i:hash) {
             if(!hash2.contains(i)) {
                 a[1]=i;
+                break;
             }
         }
         return a;
