@@ -17,7 +17,7 @@ class Solution {
         hash.add('i');
         hash.add('o');
         hash.add('u');
-        int vowel=0, cons=0,num=0,spcl=0;
+        int vowel=0, cons=0;
         for(int i=0;i<n;i++) {
             if(word.charAt(i) >= 'A' && word.charAt(i) <= 'Z') {
                 if(hash.contains(word.charAt(i))) {
@@ -39,16 +39,14 @@ class Solution {
                 
             }
             else if(word.charAt(i) >= '0' && word.charAt(i) <= '9') {
-               num++;
+              continue;
                
             }
             else {
-                spcl++;
+                return false;
             }
         }
-        if(vowel>=1 && cons>=1 && spcl==0)
-            return true;
-        return false;
+        return vowel>=1 && cons>=1;
 
     }
 }
