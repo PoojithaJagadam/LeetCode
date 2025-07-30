@@ -1,18 +1,18 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-       int c=0;
-       HashSet<Character> hash=new HashSet<>();
-       int n=jewels.length();
-       for(int i=0;i<n;i++) {
-        hash.add(jewels.charAt(i));
+       int n1=jewels.length();
+       int n2=stones.length();
+       HashMap<Character, Integer> hash=new HashMap<>();
+       for(int i=0;i<n2;i++) {
+            hash.put(stones.charAt(i), hash.getOrDefault(stones.charAt(i),0)+1);
        }
-       int m=stones.length();
-       for(int i=0;i<m;i++) {
-            if(hash.contains(stones.charAt(i))) {
-                c++;
-            }
+       int sum=0;
+       for(int i=0;i<n1;i++) {
+            char c=jewels.charAt(i);
+            if(hash.containsKey(c))
+                sum+=hash.get(c);
        }
-       return c;
+       return sum;
     }
 
 }
