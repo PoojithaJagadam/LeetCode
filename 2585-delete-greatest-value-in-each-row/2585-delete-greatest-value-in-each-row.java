@@ -3,7 +3,7 @@ class Solution {
         int n=grid.length;
         int m=grid[0].length;
         for(int[] row: grid) {
-            Arrays.sort(row);
+            Arrays.sort(row); //sorting each row so that we will get max element from each row
         }
         int sum=0;
         for(int i=0;i<m;i++) {
