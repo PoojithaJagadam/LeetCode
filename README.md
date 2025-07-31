@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/PoojithaJagadam/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/PoojithaJagadam/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/PoojithaJagadam/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PoojithaJagadam/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/PoojithaJagadam/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/PoojithaJagadam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/PoojithaJagadam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2048-build-array-from-permutation](https://github.com/PoojithaJagadam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/PoojithaJagadam/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/PoojithaJagadam/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PoojithaJagadam/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/PoojithaJagadam/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PoojithaJagadam/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojithaJagadam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/PoojithaJagadam/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Tree
 |  |
