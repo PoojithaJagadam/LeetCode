@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PoojithaJagadam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/PoojithaJagadam/LeetCode/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/PoojithaJagadam/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/PoojithaJagadam/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PoojithaJagadam/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
+| [1791-richest-customer-wealth](https://github.com/PoojithaJagadam/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PoojithaJagadam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PoojithaJagadam/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/PoojithaJagadam/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
