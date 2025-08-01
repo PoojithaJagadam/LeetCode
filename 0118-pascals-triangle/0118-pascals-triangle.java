@@ -8,12 +8,14 @@ class Solution {
             List<Integer> a=new ArrayList<>();
             a.add(1);
             for(int j=1;j<i;j++) {
-               int val= (arr.get(i-1).get(j)+arr.get(i-1).get(j-1));
-               a.add(val);
+                int sum= arr.get(i-1).get(j) + arr.get(i-1).get(j-1);
+                a.add(sum);
             }
             a.add(1);
             arr.add(a);
         }
+
+        
         return arr;
     }
 }
