@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/PoojithaJagadam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/PoojithaJagadam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/PoojithaJagadam/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/PoojithaJagadam/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PoojithaJagadam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/PoojithaJagadam/LeetCode/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/PoojithaJagadam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/PoojithaJagadam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PoojithaJagadam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PoojithaJagadam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/PoojithaJagadam/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/PoojithaJagadam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/PoojithaJagadam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PoojithaJagadam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PoojithaJagadam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
