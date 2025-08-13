@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/PoojithaJagadam/LeetCode/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/PoojithaJagadam/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0866-rectangle-overlap](https://github.com/PoojithaJagadam/LeetCode/tree/master/0866-rectangle-overlap) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PoojithaJagadam/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/PoojithaJagadam/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/PoojithaJagadam/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/PoojithaJagadam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
