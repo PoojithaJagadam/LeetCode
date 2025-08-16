@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/PoojithaJagadam/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PoojithaJagadam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/PoojithaJagadam/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PoojithaJagadam/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/PoojithaJagadam/LeetCode/tree/master/0409-longest-palindrome) |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/PoojithaJagadam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/PoojithaJagadam/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/PoojithaJagadam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
