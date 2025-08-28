@@ -2,6 +2,7 @@ class Solution {
     List<List<String>> ans=new ArrayList<>();
     public List<List<String>> solveNQueens(int n) {
         char[][] board=new char[n][n];
+        //fill all rows with '.'
         for(int i=0;i<n;i++) {
             Arrays.fill(board[i],'.');
         }
@@ -9,6 +10,7 @@ class Solution {
         return ans;
     }
     public void generate(char[][] board,int row) {
+        //if the traversal reached at the end row return ans
         if(row==board.length) {
             List<String> str=new ArrayList<>();
             for(int i=0;i<board.length;i++) {
@@ -17,6 +19,7 @@ class Solution {
             ans.add(str);
             return;
         }
+        //else traverse  each col and check whether it is safe to place or not
         for(int col=0;col<board[row].length;col++) {
             if(isSafe(board,row,col)) {
                 board[row][col]='Q';
@@ -26,16 +29,20 @@ class Solution {
         }
     } 
         public boolean isSafe(char[][] board,int row,int col) {
+            //checking safe place based on the conditions:
+            //not in same row
             for(int i=0;i<row;i++) {
                 if(board[i][col] == 'Q')
                     return false;
             }
             int maxLeft=Math.min(row,col);
+            //not in left diagonal
             for(int i=1;i<=maxLeft;i++) {
                 if(board[row-i][col-i] =='Q')
                     return false;
             }
             int maxRight=Math.min(row,board.length-1-col);
+            //not in right diagonal
             for(int i=1;i<=maxRight;i++) {
                 if(board[row-i][col+i]=='Q')
                     return false;
