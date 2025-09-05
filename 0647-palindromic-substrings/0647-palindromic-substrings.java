@@ -16,13 +16,13 @@ class Solution {
     public int countSubstrings(String s) {
         int n=s.length(),count=0;
         for(int i=0;i<n;i++) {
-            for(int j=0;j<n;j++) {
-                if(i<j) {
+            for(int j=i+1;j<n;j++) {
+                
                 String str=s.substring(i,j+1);
                 if(isPalindrome(str)) {
                     count++;
                 }
-                }
+                
             }
         }
         return count+n;
