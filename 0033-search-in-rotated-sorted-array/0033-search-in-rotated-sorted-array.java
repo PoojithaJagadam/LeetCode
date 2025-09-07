@@ -17,7 +17,7 @@ class Solution {
         
         return -1;
     }
-    static int findMax(int[] nums) {
+    static int findMin(int[] nums) {
         int n=nums.length;
         int l=0,h=n-1;
         int ans=nums[0];
@@ -34,7 +34,7 @@ class Solution {
 
     public int search(int[] nums, int target) {
         int n=nums.length;
-        int maxi = findMax(nums);
+        int maxi = findMin(nums);
         int  num1 = binSearch(nums,0,maxi,target);
         int  num2 = binSearch(nums,maxi+1,n-1,target);
         //System.out.println(maxi + " " +num1 +" "+ num2);
