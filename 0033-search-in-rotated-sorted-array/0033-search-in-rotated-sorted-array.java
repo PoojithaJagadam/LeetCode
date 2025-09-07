@@ -35,8 +35,7 @@ class Solution {
     public int search(int[] nums, int target) {
         int n=nums.length;
         int maxi = findMin(nums);
-        int  num1 = binSearch(nums,0,maxi,target);
-        int  num2 = binSearch(nums,maxi+1,n-1,target);
+       
         //System.out.println(maxi + " " +num1 +" "+ num2);
        if(target >= nums[maxi] && target <= nums[n-1]) {
         return  binSearch(nums,maxi,n-1,target);
