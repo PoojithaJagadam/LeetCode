@@ -1,13 +1,14 @@
 class Solution {
     public int findMin(int[] nums) {
         int n=nums.length;
-        int mini=nums[0];
-        for(int i=1;i<n;i++) {
-            if(nums[i-1]>nums[i]) {
-                mini = Math.min(mini, nums[i]);
-                break;
-            }
+        int l=0,h=n-1;
+        while(l<h) {
+            int mid = l + (h-l)/2;
+            if(nums[mid] <= nums[h]) 
+                h=mid;
+            else 
+                l=mid+1;
         }
-        return mini;
+        return nums[l];
     }
 }
