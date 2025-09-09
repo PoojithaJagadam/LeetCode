@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PoojithaJagadam/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/PoojithaJagadam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0777-toeplitz-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/PoojithaJagadam/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/PoojithaJagadam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/PoojithaJagadam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/PoojithaJagadam/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PoojithaJagadam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/PoojithaJagadam/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PoojithaJagadam/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/PoojithaJagadam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/PoojithaJagadam/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
