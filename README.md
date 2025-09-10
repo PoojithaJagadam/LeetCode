@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PoojithaJagadam/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/PoojithaJagadam/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/PoojithaJagadam/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/PoojithaJagadam/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PoojithaJagadam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PoojithaJagadam/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/PoojithaJagadam/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/PoojithaJagadam/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/PoojithaJagadam/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/PoojithaJagadam/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PoojithaJagadam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
