@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PoojithaJagadam/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/PoojithaJagadam/LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PoojithaJagadam/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/PoojithaJagadam/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PoojithaJagadam/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PoojithaJagadam/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/PoojithaJagadam/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PoojithaJagadam/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
